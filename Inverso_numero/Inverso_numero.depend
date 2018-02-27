@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519760101 source:c:\users\leona\documents\programas\c\inverso_numero\main.c
+	<stdio.h>
+	<stdlib.h>
+
